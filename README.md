@@ -1,4 +1,4 @@
-# bankmarketing_strategy
+# 고객데이터 기반 마케팅전략
 <a>
 with <img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/>
 SNS<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
